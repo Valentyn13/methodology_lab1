@@ -114,5 +114,3 @@ There is 0 roots
 ```
 
 # Link on Revert Commit
-
-Revert me sempai, yamete kudasai!
