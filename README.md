@@ -1,5 +1,6 @@
 # Quadratic Equation Solver
 
+ Первєєв Валентин ІМ-13
 ## Description 
 
 This is a console application designed to solve quadratic equations, it supports two modes of operation: interactive and non-interactive (file) mode.
@@ -114,3 +115,4 @@ There is 0 roots
 ```
 
 # Link on Revert Commit
+https://github.com/Valentyn13/methodology_lab1/commit/80b5fced83492f7ef0816937f04cc44831a822eb
