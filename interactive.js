@@ -4,6 +4,7 @@ import chalk from 'chalk';
 
 export function solveQuadraticEquation(a, b, c) {
   console.log(`Equation is: (${a})x^2 + (${b})x +(${c}) = 0 `)
+  if (a === 0) return console.log('a must be not 0')
   let discriminant = b * b - 4 * a * c;
 
   if (isNaN(discriminant)) {
